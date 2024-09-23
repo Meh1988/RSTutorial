@@ -1,4 +1,4 @@
-# Recommender Systems with Surprise and NLTK
+# Recommender Systems with Python Libraries
 
 This repository contains tutorials for building recommender systems using various Python libraries. The examples demonstrate how to integrate different techniques such as sentiment analysis, matrix factorization, and more advanced models like hybrid deep learning approaches.
 
