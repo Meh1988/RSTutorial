@@ -71,7 +71,4 @@ This repository contains tutorials for building recommender systems using variou
 
 Each tutorial includes complete Python code and explanations to help you understand how to enhance your recommendation system using various natural language processing (NLP) tools and collaborative filtering techniques. The code is modular and can be adapted to different datasets and scenarios.
 
-## Installation
-- Clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/recommender-system-tutorials.git
+
